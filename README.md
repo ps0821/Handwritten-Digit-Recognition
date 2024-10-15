@@ -5,15 +5,17 @@
 Handwritten Digit Recognition is a machine learning project designed to accurately classify handwritten digits (0-9) using state-of-the-art deep learning techniques. This project leverages the power of Convolutional Neural Networks (CNNs) to achieve high accuracy in recognizing digits, making it suitable for applications in automated data entry and digitalization of handwritten documents.
 
 <h1><b>Table of Contents</b></h1>
+<br>
+📖 Introduction<br>
+✨ Features<br>
+💻 Tech Stack<br>
+🚀 Setup<br>
+🔧 Usage<br>
+🤝 Contributing<br>
+📜 License<br>
 
-📖 Introduction
-✨ Features
-💻 Tech Stack
-🚀 Setup
-🔧 Usage
-🤝 Contributing
-📜 License
 <h1><b>Introduction</b></h1>
+
 
 The ability to recognize handwritten digits is a critical aspect of numerous applications, ranging from automated postal sorting systems to bank check processing. This project aims to build a robust model that can accurately identify and classify handwritten digits using the MNIST dataset, a widely used benchmark in the field of machine learning.
 
