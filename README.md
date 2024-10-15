@@ -1,4 +1,4 @@
-<h1 style="font-size: 2.5em; font-weight: bold;">🖊️ Handwritten Digit Recognition</h1>
+<h1 style="font-size: 3em; font-weight: bold;">🖊️ Handwritten Digit Recognition</h1>
 
 <h1><b>Overview</b></h1>
 
