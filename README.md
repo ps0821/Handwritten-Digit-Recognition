@@ -20,14 +20,13 @@ Handwritten Digit Recognition is a machine learning project designed to accurate
 The ability to recognize handwritten digits is a critical aspect of numerous applications, ranging from automated postal sorting systems to bank check processing. This project aims to build a robust model that can accurately identify and classify handwritten digits using the MNIST dataset, a widely used benchmark in the field of machine learning.
 
 <h1><b>Features</b></h1>
-High Accuracy: Utilizes CNNs to achieve superior classification accuracy on the MNIST dataset.<br>
-Interactive Visualization: Visualize model performance and predictions using Matplotlib.<br>
-Data Augmentation: Implements techniques to enhance the dataset, improving model robustness.<br>
-Easy Integration: Modular design allows easy integration into larger applications.<br>
+<b></b>High Accuracy:</b> Utilizes CNNs to achieve superior classification accuracy on the MNIST dataset.<br>
+<b></b>Interactive Visualization:</b> Visualize model performance and predictions using Matplotlib.<br>
+<b></b>Data Augmentation:</b> Implements techniques to enhance the dataset, improving model robustness.<br>
+<b></b>Easy Integration:</b> Modular design allows easy integration into larger applications.<br>
 
 <h1><b>Tech Stack</b></h1>
 
-<h1><b>Tech Stack</b></h1>
 Programming Language: Python<br>
 Libraries:<br>
 - TensorFlow<br>
