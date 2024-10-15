@@ -20,10 +20,11 @@ Handwritten Digit Recognition is a machine learning project designed to accurate
 The ability to recognize handwritten digits is a critical aspect of numerous applications, ranging from automated postal sorting systems to bank check processing. This project aims to build a robust model that can accurately identify and classify handwritten digits using the MNIST dataset, a widely used benchmark in the field of machine learning.
 
 <h1><b>Features</b></h1>
-<b></b>High Accuracy:</b> Utilizes CNNs to achieve superior classification accuracy on the MNIST dataset.<br>
-<b></b>Interactive Visualization:</b> Visualize model performance and predictions using Matplotlib.<br>
-<b></b>Data Augmentation:</b> Implements techniques to enhance the dataset, improving model robustness.<br>
-<b></b>Easy Integration:</b> Modular design allows easy integration into larger applications.<br>
+<b>High Accuracy:</b> Utilizes CNNs to achieve superior classification accuracy on the MNIST dataset.<br>
+<b>Interactive Visualization:</b> Visualize model performance and predictions using Matplotlib.<br>
+<b>Data Augmentation:</b> Implements techniques to enhance the dataset, improving model robustness.<br>
+<b>Easy Integration:</b> Modular design allows easy integration into larger applications.<br>
+
 
 <h1><b>Tech Stack</b></h1>
 
@@ -36,36 +37,37 @@ Libraries:<br>
 Dataset: MNIST dataset for handwritten digit classification.<br>
 
 <h1><b>Setup</b></h1>
-Prerequisites:<br>
+
+<b>Prerequisites:</b><br>
 Python 3.x<br>
 <br>
-Installation:<br>
+<b>Installation:</b><br>
 Clone the Repository:<br>
-```bash
-git clone https://github.com/YourUsername/Handwritten_Digit_Recognition.git<br>
-cd Handwritten_Digit_Recognition<br>
+<pre><code>git clone https://github.com/YourUsername/Handwritten_Digit_Recognition.git
+cd Handwritten_Digit_Recognition</code></pre>
 
 Create a Virtual Environment:<br>
-python -m venv venv<br>
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`<br>
+<pre><code>python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`</code></pre>
 
-Install Dependencies:<br> Create a requirements.txt file with the following contents:<br>
-tensorflow<br>
-keras<br>
-numpy<br>
-matplotlib<br>
-pandas<br>
-scikit-learn<br>
-notebook<br>
+Install Dependencies:<br> 
+Create a `requirements.txt` file with the following contents:<br>
+<pre><code>tensorflow
+keras
+numpy
+matplotlib
+pandas
+scikit-learn
+notebook</code></pre>
 
 Then run:<br>
-pip install -r requirements.txt<br>
+<pre><code>pip install -r requirements.txt</code></pre>
 
-<h1><b>Usage</b></h1> ```
+<h1><b>Usage</b></h1>
+<b>Training the Model:</b> Run the Jupyter Notebook (`Handwritten_digit_recognition.ipynb`) to train the model on the MNIST dataset.<br>
+<b>Testing the Model:</b> After training, test the model with new handwritten digit images to see predictions.<br>
+<b>Visualizing Results:</b> Use the built-in visualization functions to analyze model performance.<br>
 
-Training the Model: Run the Jupyter Notebook (`Handwritten_digit_recognition.ipynb`) to train the model on the MNIST dataset.<br>
-Testing the Model: After training, test the model with new handwritten digit images to see predictions.<br>
-Visualizing Results: Use the built-in visualization functions to analyze model performance.<br>
 
 <h1><b>Contributing</b></h1>
 Contributions are welcome! Please follow these steps:<br>
